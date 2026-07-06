@@ -1,0 +1,112 @@
+{
+  "hero": {
+    "title": "DOMINA EL ASFALTO",
+    "subtitle": "Bicicletas premium para las calles de la ciudad y las cumbres de montaña",
+    "cta": "Ver Colección"
+  },
+  "nav": {
+    "home": "Inicio",
+    "products": "Productos",
+    "about": "Nosotros",
+    "contact": "Contacto",
+    "cart": "Carrito",
+    "search": "Buscar bicicletas..."
+  },
+  "home": {
+    "featured": "Bicicletas Destacadas",
+    "categories": "Comprar por Categoría",
+    "mountain": "Montaña",
+    "road": "Ruta",
+    "electric": "Eléctrica",
+    "testimonials": "Lo Que Dicen los Ciclistas",
+    "newsletter": "Únete al Ride",
+    "newsletterDesc": "Recibe ofertas exclusivas, nuevos lanzamientos y consejos.",
+    "newsletterPlaceholder": "Tu correo",
+    "newsletterBtn": "Suscribirse",
+    "viewAll": "Ver Todos los Productos"
+  },
+  "products": {
+    "title": "Todas las Bicicletas",
+    "filters": "Filtros",
+    "category": "Categoría",
+    "brand": "Marca",
+    "priceRange": "Rango de Precio",
+    "sortBy": "Ordenar Por",
+    "sortNewest": "Más Nuevo",
+    "sortPriceLow": "Precio: Menor a Mayor",
+    "sortPriceHigh": "Precio: Mayor a Menor",
+    "sortRating": "Mejor Valorados",
+    "all": "Todas",
+    "noResults": "Ninguna bicicleta coincide con tus filtros",
+    "clearFilters": "Limpiar Filtros",
+    "results": "bicicletas encontradas"
+  },
+  "product": {
+    "specs": "Especificaciones",
+    "addToCart": "Añadir al Carrito",
+    "addedToCart": "¡Añadido al Carrito!",
+    "related": "También Te Puede Gustar",
+    "inStock": "En Stock",
+    "outOfStock": "Agotado",
+    "frame": "Cuadro",
+    "fork": "Horquilla",
+    "drivetrain": "Transmisión",
+    "brakes": "Frenos",
+    "wheels": "Ruedas",
+    "weight": "Peso"
+  },
+  "cart": {
+    "title": "Tu Carrito",
+    "empty": "Tu carrito está vacío",
+    "emptyDesc": "¡Llénalo con bicicletas increíbles!",
+    "continueShopping": "Seguir Comprando",
+    "checkout": "Proceder al Pago",
+    "subtotal": "Subtotal",
+    "shipping": "Envío",
+    "freeShipping": "Envío Gratis",
+    "total": "Total",
+    "remove": "Eliminar",
+    "quantity": "Cant.",
+    "freeShippingThreshold": "¡Envío gratis en pedidos superiores a $999!"
+  },
+  "about": {
+    "title": "Nuestra Historia",
+    "subtitle": "Nacidos en las calles. Construidos para el ride.",
+    "story1": "URBAN RIDE fue fundada en 2018 por un grupo de ciclistas que creían que cada paseo debía ser una aventura. Comenzamos en un pequeño garaje en Portland, Oregón, con una misión: construir bicicletas que te den ganas de seguir pedaleando.",
+    "story2": "Nuestras bicicletas combinan ingeniería de vanguardia con una estética urbana y cruda. Cada cuadro está diseñado para manejar cualquier cosa, desde calles con baches hasta senderos de montaña.",
+    "story3": "Hoy, URBAN RIDE envía a ciclistas en más de 30 países. Nuestra comunidad crece cada día. Únete al ride.",
+    "values": "Nuestros Valores",
+    "value1Title": "Calidad Primero",
+    "value1Desc": "Cada bicicleta pasa por una inspección de 147 puntos antes de llegar a tu puerta.",
+    "value2Title": "Enfocados en el Ciclista",
+    "value2Desc": "Escuchamos a nuestra comunidad. Tus comentarios dan forma a cada bicicleta.",
+    "value3Title": "Velocidad Sostenible",
+    "value3Desc": "Envío carbono-neutral y empaque reciclado. Rápido no significa derrochador."
+  },
+  "contact": {
+    "title": "Contáctanos",
+    "subtitle": "¿Preguntas? Estamos aquí para ayudar.",
+    "name": "Nombre",
+    "email": "Correo",
+    "message": "Mensaje",
+    "send": "Enviar Mensaje",
+    "sent": "¡Mensaje Enviado!",
+    "sentDesc": "Te responderemos en 24 horas.",
+    "storeLocator": "Encuentra una Tienda",
+    "storeLocatorDesc": "Visita una de nuestras tiendas para una prueba de manejo.",
+    "address": "123 Rider Street, Portland, OR 97201",
+    "phone": "+1 (503) 555-0147",
+    "hours": "Lun–Sáb: 10am–7pm | Dom: 11am–5pm"
+  },
+  "footer": {
+    "tagline": "Bicicletas premium para exploradores urbanos y aventureros de montaña.",
+    "quickLinks": "Enlaces Rápidos",
+    "followUs": "Síguenos",
+    "rights": "Todos los derechos reservados."
+  },
+  "a11y": {
+    "skipToContent": "Saltar al contenido principal",
+    "toggleDarkMode": "Alternar modo oscuro",
+    "language": "Idioma"
+  }
+}

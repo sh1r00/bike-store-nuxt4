@@ -1,0 +1,112 @@
+{
+  "hero": {
+    "title": "RIDE THE URBAN EDGE",
+    "subtitle": "Premium bikes built for the city streets and mountain peaks",
+    "cta": "Shop Collection"
+  },
+  "nav": {
+    "home": "Home",
+    "products": "Products",
+    "about": "About",
+    "contact": "Contact",
+    "cart": "Cart",
+    "search": "Search bikes..."
+  },
+  "home": {
+    "featured": "Featured Bikes",
+    "categories": "Shop by Category",
+    "mountain": "Mountain",
+    "road": "Road",
+    "electric": "Electric",
+    "testimonials": "What Riders Say",
+    "newsletter": "Join the Ride",
+    "newsletterDesc": "Get exclusive deals, new releases, and riding tips.",
+    "newsletterPlaceholder": "Your email",
+    "newsletterBtn": "Subscribe",
+    "viewAll": "View All Products"
+  },
+  "products": {
+    "title": "All Bikes",
+    "filters": "Filters",
+    "category": "Category",
+    "brand": "Brand",
+    "priceRange": "Price Range",
+    "sortBy": "Sort By",
+    "sortNewest": "Newest",
+    "sortPriceLow": "Price: Low to High",
+    "sortPriceHigh": "Price: High to Low",
+    "sortRating": "Top Rated",
+    "all": "All",
+    "noResults": "No bikes match your filters",
+    "clearFilters": "Clear Filters",
+    "results": "bikes found"
+  },
+  "product": {
+    "specs": "Specifications",
+    "addToCart": "Add to Cart",
+    "addedToCart": "Added to Cart!",
+    "related": "You May Also Like",
+    "inStock": "In Stock",
+    "outOfStock": "Out of Stock",
+    "frame": "Frame",
+    "fork": "Fork",
+    "drivetrain": "Drivetrain",
+    "brakes": "Brakes",
+    "wheels": "Wheels",
+    "weight": "Weight"
+  },
+  "cart": {
+    "title": "Your Cart",
+    "empty": "Your cart is empty",
+    "emptyDesc": "Fill it up with some awesome bikes!",
+    "continueShopping": "Continue Shopping",
+    "checkout": "Proceed to Checkout",
+    "subtotal": "Subtotal",
+    "shipping": "Shipping",
+    "freeShipping": "Free Shipping",
+    "total": "Total",
+    "remove": "Remove",
+    "quantity": "Qty",
+    "freeShippingThreshold": "Free shipping on orders over $999!"
+  },
+  "about": {
+    "title": "Our Story",
+    "subtitle": "Born on the streets. Built for the ride.",
+    "story1": "URBAN RIDE was founded in 2018 by a group of cyclists who believed that every ride should be an adventure. We started in a small garage in Portland, Oregon, with one mission: build bikes that make you want to keep riding.",
+    "story2": "Our bikes blend cutting-edge engineering with raw, urban aesthetics. Every frame is designed to handle anything — from potholed city streets to mountain switchbacks. We don't just sell bikes; we build machines for exploration.",
+    "story3": "Today, URBAN RIDE ships to riders in over 30 countries. Our community of urban adventurers, mountain shredders, and electric pioneers grows every day. Join the ride.",
+    "values": "Our Values",
+    "value1Title": "Quality First",
+    "value1Desc": "Every bike undergoes 147-point inspection before it reaches your door.",
+    "value2Title": "Rider Focused",
+    "value2Desc": "We listen to our community. Your feedback shapes every bike we build.",
+    "value3Title": "Sustainable Speed",
+    "value3Desc": "Carbon-neutral shipping and recycled packaging. Fast doesn't have to mean wasteful."
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "subtitle": "Questions? We're here to help.",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send Message",
+    "sent": "Message Sent!",
+    "sentDesc": "We'll get back to you within 24 hours.",
+    "storeLocator": "Find a Store",
+    "storeLocatorDesc": "Visit one of our flagship locations for a test ride.",
+    "address": "123 Rider Street, Portland, OR 97201",
+    "phone": "+1 (503) 555-0147",
+    "hours": "Mon–Sat: 10am–7pm | Sun: 11am–5pm"
+  },
+  "footer": {
+    "tagline": "Premium bikes for urban explorers and mountain adventurers.",
+    "quickLinks": "Quick Links",
+    "followUs": "Follow Us",
+    "rights": "All rights reserved."
+  },
+  "a11y": {
+    "skipToContent": "Skip to main content",
+    "toggleDarkMode": "Toggle dark mode",
+    "language": "Language"
+  }
+}

@@ -1,0 +1,92 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --color-dark: #171717;
+    --color-dark-surface: #1f1f1f;
+    --color-dark-elevated: #2a2a2a;
+    --color-neon: #22c55e;
+    --color-neon-dim: #16a34a;
+    --color-light: #f8fafc;
+    --color-light-surface: #ffffff;
+    --color-light-muted: #e2e8f0;
+    --font-heading: 'Bebas Neue', sans-serif;
+    --font-body: 'Inter', system-ui, -apple-system, sans-serif;
+  }
+
+  html {
+    scroll-behavior: smooth;
+    font-family: var(--font-body);
+  }
+
+  body {
+    @apply bg-[var(--color-light)] text-gray-900 transition-colors duration-300;
+  }
+
+  htmlhtml.dark body {
+    @apply bg-[var(--color-dark)] text-gray-100;
+  }
+
+  h1, h2, h3 {
+    font-family: var(--font-heading);
+    letter-spacing: 0.02em;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply inline-flex items-center justify-center gap-2 px-6 py-3 font-semibold
+           bg-[var(--color-neon)] text-[var(--color-dark)]
+           hover:bg-[var(--color-neon-dim)] active:scale-95
+           rounded-lg transition-all duration-200
+           focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[var(--color-neon)] focus-visible:ring-offset-2
+           disabled:opacity-50 disabled:cursor-not-allowed;
+  }
+
+  .btn-secondary {
+    @apply inline-flex items-center justify-center gap-2 px-6 py-3 font-semibold
+           border-2 border-[var(--color-neon)] text-[var(--color-neon)]
+           hover:bg-[var(--color-neon)] hover:text-[var(--color-dark)] active:scale-95
+           rounded-lg transition-all duration-200
+           focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[var(--color-neon)] focus-visible:ring-offset-2
+           disabled:opacity-50 disabled:cursor-not-allowed;
+  }
+
+  .surface {
+    @apply bg-white dark:bg-[var(--color-dark-surface)] rounded-xl;
+  }
+
+  .surface-elevated {
+    @apply bg-white dark:bg-[var(--color-dark-elevated)] rounded-xl shadow-lg;
+  }
+
+  .container-page {
+    @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+  }
+
+  .skip-link {
+    @apply absolute -top-full left-4 z-[100] px-4 py-2 bg-[var(--color-neon)] text-[var(--color-dark)] font-bold rounded-b-lg transition-all duration-200;
+  }
+
+  .skip-link:focus {
+    @apply top-0;
+  }
+
+  .section-title {
+    @apply text-4xl md:text-5xl lg:text-6xl font-[var(--font-heading)] tracking-wider uppercase;
+  }
+}
+
+@layer utilities {
+  .text-gradient-neon {
+    @apply bg-gradient-to-r from-[var(--color-neon)] to-green-300 bg-clip-text text-transparent;
+  }
+}
+
+/* Focus visible for all interactive elements */
+:focus-visible {
+  outline: 2px solid var(--color-neon);
+  outline-offset: 2px;
+}

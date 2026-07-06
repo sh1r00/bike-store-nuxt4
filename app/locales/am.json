@@ -1,0 +1,112 @@
+{
+  "hero": {
+    "title": "የከተማውን መንገድ ተቆጣጠር",
+    "subtitle": "ለከተማ ጎዳናዎች እና ለተራራ ጫፎች የተገነቡ ፕሪሚየም ብስክሌቶች",
+    "cta": "ስብስብ ይመልከቱ"
+  },
+  "nav": {
+    "home": "መነሻ",
+    "products": "ምርቶች",
+    "about": "ስለ እኛ",
+    "contact": "ያግኙን",
+    "cart": "ጋሪ",
+    "search": "ብስክሌቶችን ይፈልጉ..."
+  },
+  "home": {
+    "featured": "የተመረጡ ብስክሌቶች",
+    "categories": "በምድብ ይግዙ",
+    "mountain": "ተራራ",
+    "road": "መንገድ",
+    "electric": "ኤሌክትሪክ",
+    "testimonials": "አሽከርካሪዎች ምን ይላሉ",
+    "newsletter": "ጉዞውን ይቀላቀሉ",
+    "newsletterDesc": "ልዩ ቅናሾችን፣ አዳዲስ ምርቶችን እና የብስክሌት ምክሮችን ያግኙ።",
+    "newsletterPlaceholder": "ኢሜይልዎ",
+    "newsletterBtn": "ይመዝገቡ",
+    "viewAll": "ሁሉንም ምርቶች ይመልከቱ"
+  },
+  "products": {
+    "title": "ሁሉም ብስክሌቶች",
+    "filters": "ማጣሪያዎች",
+    "category": "ምድብ",
+    "brand": "ብራንድ",
+    "priceRange": "የዋጋ ክልል",
+    "sortBy": "በ... ደርድር",
+    "sortNewest": "አዲሱ መጀመሪያ",
+    "sortPriceLow": "ዋጋ፦ ከዝቅተኛ ወደ ከፍተኛ",
+    "sortPriceHigh": "ዋጋ፦ ከከፍተኛ ወደ ዝቅተኛ",
+    "sortRating": "ከፍተኛ ደረጃ",
+    "all": "ሁሉም",
+    "noResults": "ከማጣሪያዎ ጋር የሚዛመድ ብስክሌት የለም",
+    "clearFilters": "ማጣሪያዎችን አጽዳ",
+    "results": "ብስክሌቶች ተገኝተዋል"
+  },
+  "product": {
+    "specs": "ዝርዝር መግለጫዎች",
+    "addToCart": "ወደ ጋሪ አክል",
+    "addedToCart": "ወደ ጋሪ ተጨምሯል!",
+    "related": "ሊወዱት ይችላሉ",
+    "inStock": "በክምችት ውስጥ",
+    "outOfStock": "አልቋል",
+    "frame": "ፍሬም",
+    "fork": "ፎርክ",
+    "drivetrain": "ትራንስሚሽን",
+    "brakes": "ብሬክ",
+    "wheels": "ዊልስ",
+    "weight": "ክብደት"
+  },
+  "cart": {
+    "title": "የእርስዎ ጋሪ",
+    "empty": "ጋሪዎ ባዶ ነው",
+    "emptyDesc": "በሚያስደንቁ ብስክሌቶች ይሙሉት!",
+    "continueShopping": "ግዢ ይቀጥሉ",
+    "checkout": "ወደ ክፍያ ይሂዱ",
+    "subtotal": "ንዑስ ድምር",
+    "shipping": "መላኪያ",
+    "freeShipping": "ነፃ መላኪያ",
+    "total": "ጠቅላላ",
+    "remove": "አስወግድ",
+    "quantity": "ብዛት",
+    "freeShippingThreshold": "ከ$999 በላይ ትዕዛዞች ላይ ነፃ መላኪያ!"
+  },
+  "about": {
+    "title": "ታሪካችን",
+    "subtitle": "በጎዳናዎች ላይ የተወለደ። ለጉዞ የተገነባ።",
+    "story1": "URBAN RIDE እ.ኤ.አ. በ2018 እያንዳንዱ ጉዞ ጀብዱ መሆን አለበት ብለው በሚያምኑ የብስክሌት አሽከርካሪዎች ቡድን ተመሠረተ። በፖርትላንድ፣ ኦሪገን ውስጥ በአንድ ትንሽ ጋራዥ ውስጥ በአንድ ተልዕኮ ጀመርን፦ እንድትቀጥሉ የሚያደርጓችሁ ብስክሌቶችን መገንባት።",
+    "story2": "ብስክሌቶቻችን ዘመናዊ ምህንድስናን ከጥሬ የከተማ ውበት ጋር ያዋህዳሉ። እያንዳንዱ ፍሬም ማንኛውንም ነገር ለመቋቋም የተነደፈ ነው - ከጉድጓድ ከተሞች እስከ ተራራ መንገዶች።",
+    "story3": "ዛሬ URBAN RIDE ከ30 በላይ አገሮች ላሉ አሽከርካሪዎች ይልካል። ማህበረሰባችን በየቀኑ እያደገ ነው። ጉዞውን ይቀላቀሉ።",
+    "values": "እሴቶቻችን",
+    "value1Title": "ጥራት መጀመሪያ",
+    "value1Desc": "እያንዳንዱ ብስክሌት ወደ እርስዎ በር ከመድረሱ በፊት በ147 ነጥብ ምርመራ ያልፋል።",
+    "value2Title": "አሽከርካሪ ተኮር",
+    "value2Desc": "ማህበረሰባችንን እናዳምጣለን። የእርስዎ አስተያየት እያንዳንዱን ብስክሌት ይቀርጻል።",
+    "value3Title": "ዘላቂ ፍጥነት",
+    "value3Desc": "ካርቦን-ገለልተኛ መላኪያ እና እንደገና ጥቅም ላይ የዋለ ማሸጊያ። ፈጣን ማለት ብክነት ማለት አይደለም።"
+  },
+  "contact": {
+    "title": "ያግኙን",
+    "subtitle": "ጥያቄዎች አሉዎት? ለመርዳት እዚህ ነን።",
+    "name": "ስም",
+    "email": "ኢሜይል",
+    "message": "መልእክት",
+    "send": "መልእክት ይላኩ",
+    "sent": "መልእክት ተልኳል!",
+    "sentDesc": "በ24 ሰዓታት ውስጥ እንመልሳለን።",
+    "storeLocator": "ሱቅ ያግኙ",
+    "storeLocatorDesc": "ለሙከራ ጉዞ አንዱን ዋና ሱቃችንን ይጎብኙ።",
+    "address": "123 Rider Street, Portland, OR 97201",
+    "phone": "+1 (503) 555-0147",
+    "hours": "ሰኞ–ቅዳሜ፦ 10am–7pm | እሑድ፦ 11am–5pm"
+  },
+  "footer": {
+    "tagline": "ለከተማ አሳሾች እና ለተራራ ጀብደኞች ፕሪሚየም ብስክሌቶች።",
+    "quickLinks": "ፈጣን አገናኞች",
+    "followUs": "ይከተሉን",
+    "rights": "መብቱ በህግ የተጠበቀ ነው።"
+  },
+  "a11y": {
+    "skipToContent": "ወደ ዋና ይዘት ዝለል",
+    "toggleDarkMode": "የጨለማ ሁነታን ቀያይር",
+    "language": "ቋንቋ"
+  }
+}
