@@ -113,7 +113,7 @@ const mobileMenuOpen = ref(false)
 
 <style scoped>
 .nav-link {
-  @apply text-sm font-medium uppercase tracking-wider text-gray-600 dark:text-gray-400 hover:text-[var(--color-neon)] dark:hover:text-[var(--color-neon)] transition-colors duration-200 py-1;
+  @apply text-sm font-medium uppercase tracking-wider text-gray-700 dark:text-gray-200 hover:text-[var(--color-neon)] dark:hover:text-[var(--color-neon)] transition-colors duration-200 py-1;
 }
 
 .nav-link-active {
