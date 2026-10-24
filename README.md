@@ -52,6 +52,20 @@ Deploy .output/public to Netlify via API zip upload.
 - PWA configured with service worker for offline access
 - i18n supports 3 locales: English, Espanyol, Amharic
 
+## Pitfalls & Fixes
+
+- **nuxt-security@2.6.0 needs Node ≥ 24** → `NODE_VERSION = "24"` in `netlify.toml`.
+- **esbuild peer conflict** → `npm install --legacy-peer-deps`.
+- **i18n v10** → `detectBrowserLanguage: false` + `const localePath = useLocalePath()`.
+- **`$t()` banned in templates** → `const { t } = useI18n()`.
+- **component auto-import `pathPrefix: false`** → else blank screen.
+- **PWA** → `navigateFallback: null` + exclude `.html` (else blank screen).
+- **i18n `prefix`** → `/` → `/en/` 302 redirect.
+- **`defineProps()` without `const props =`** → "props is not defined".
+- **SSG vs SSR output dirs** → `nuxt generate` → `.output/public`.
+
+Full details: [DOCUMENTATION.md](./DOCUMENTATION.md)
+
 ---
 
 *Made with ❤️ by shiro — rasisg@gmail.com — github.com/sh1r00*
