@@ -53,7 +53,8 @@
     "drivetrain": "ትራንስሚሽን",
     "brakes": "ብሬክ",
     "wheels": "ዊልስ",
-    "weight": "ክብደት"
+    "weight": "ክብደት",
+    "quickView": "ፈጣን እይታ"
   },
   "cart": {
     "title": "የእርስዎ ጋሪ",
@@ -108,5 +109,11 @@
     "skipToContent": "ወደ ዋና ይዘት ዝለል",
     "toggleDarkMode": "የጨለማ ሁነታን ቀያይር",
     "language": "ቋንቋ"
+  },
+  "pwa": {
+    "heading": "ይህን መተግበሪያ ይጫኑ",
+    "description": "ከመስመር ውጭ ተደራሽነት እና ፈጣን ተሞክሮ ለማግኘት ይህን መተግበሪያ ይጫኑ።",
+    "install": "ይጫኑ",
+    "dismiss": "ይዝለሉ"
   }
 }

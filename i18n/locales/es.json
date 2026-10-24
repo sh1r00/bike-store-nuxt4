@@ -53,7 +53,8 @@
     "drivetrain": "Transmisión",
     "brakes": "Frenos",
     "wheels": "Ruedas",
-    "weight": "Peso"
+    "weight": "Peso",
+    "quickView": "Vista rápida"
   },
   "cart": {
     "title": "Tu Carrito",
@@ -108,5 +109,11 @@
     "skipToContent": "Saltar al contenido principal",
     "toggleDarkMode": "Alternar modo oscuro",
     "language": "Idioma"
+  },
+  "pwa": {
+    "heading": "Instalar esta aplicación",
+    "description": "Instala esta aplicación para acceder sin conexión y disfrutar de una experiencia más rápida.",
+    "install": "Instalar",
+    "dismiss": "Descartar"
   }
 }

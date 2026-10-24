@@ -53,7 +53,8 @@
     "drivetrain": "Drivetrain",
     "brakes": "Brakes",
     "wheels": "Wheels",
-    "weight": "Weight"
+    "weight": "Weight",
+    "quickView": "Quick View"
   },
   "cart": {
     "title": "Your Cart",
@@ -108,5 +109,11 @@
     "skipToContent": "Skip to main content",
     "toggleDarkMode": "Toggle dark mode",
     "language": "Language"
+  },
+  "pwa": {
+    "heading": "Install this app",
+    "description": "Install this app for offline access and a faster, app-like experience.",
+    "install": "Install",
+    "dismiss": "Dismiss"
   }
 }
